@@ -45,7 +45,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_AirPlane: {fileID: 1091036965447400}
-  m_Duration: 80
+  m_Duration: 100
   _target: {x: 56.04, y: 2.091, z: -8.22}
 --- !u!1 &1320330959843530
 GameObject:
@@ -235,7 +235,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 214051947336365050}
   m_LocalRotation: {x: -0.5537742, y: 0.20555349, z: 0.61128426, w: -0.5267006}
-  m_LocalPosition: {x: -6506, y: -2303, z: 3567}
+  m_LocalPosition: {x: -11654, y: -1542, z: 9702}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 80258649617765559}
@@ -325,7 +325,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 3
       scalar: 0.25
-      minScalar: 2
+      minScalar: 0.5
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -5038,13 +5038,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1586880650757319669}
-  m_LocalRotation: {x: 0.69471616, y: -0.04289789, z: -0.44511306, w: -0.56338584}
-  m_LocalPosition: {x: -6019, y: 2068, z: 4306.001}
+  m_LocalRotation: {x: 0.066848986, y: 0.053384528, z: -0.9826795, w: -0.16438523}
+  m_LocalPosition: {x: -3289.3918, y: -182.31409, z: 6087.0684}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 80258649617765559}
   m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 235.183, y: 93.118, z: -50.716003}
+  m_LocalEulerAnglesHint: {x: 175.242, y: 171.405, z: -19.351013}
 --- !u!198 &4609055049422317613
 ParticleSystem:
   m_ObjectHideFlags: 0

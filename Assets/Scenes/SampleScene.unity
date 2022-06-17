@@ -19348,10 +19348,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1003212118, guid: f3790f3c7f5f1414e9f689496ff2aa78, type: 3}
-      propertyPath: m_Duration
-      value: 100
-      objectReference: {fileID: 0}
     - target: {fileID: 1091036965447400, guid: f3790f3c7f5f1414e9f689496ff2aa78, type: 3}
       propertyPath: m_Name
       value: Cruise Ship
@@ -19399,62 +19395,6 @@ PrefabInstance:
     - target: {fileID: 4613593631337696, guid: f3790f3c7f5f1414e9f689496ff2aa78, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 10.525
-      objectReference: {fileID: 0}
-    - target: {fileID: 814748278783487533, guid: f3790f3c7f5f1414e9f689496ff2aa78, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -11654
-      objectReference: {fileID: 0}
-    - target: {fileID: 814748278783487533, guid: f3790f3c7f5f1414e9f689496ff2aa78, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -1542
-      objectReference: {fileID: 0}
-    - target: {fileID: 2698978934457142751, guid: f3790f3c7f5f1414e9f689496ff2aa78, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -3289.3918
-      objectReference: {fileID: 0}
-    - target: {fileID: 2698978934457142751, guid: f3790f3c7f5f1414e9f689496ff2aa78, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -182.31409
-      objectReference: {fileID: 0}
-    - target: {fileID: 2698978934457142751, guid: f3790f3c7f5f1414e9f689496ff2aa78, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 6087.0684
-      objectReference: {fileID: 0}
-    - target: {fileID: 2698978934457142751, guid: f3790f3c7f5f1414e9f689496ff2aa78, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.16438523
-      objectReference: {fileID: 0}
-    - target: {fileID: 2698978934457142751, guid: f3790f3c7f5f1414e9f689496ff2aa78, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.066848986
-      objectReference: {fileID: 0}
-    - target: {fileID: 2698978934457142751, guid: f3790f3c7f5f1414e9f689496ff2aa78, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.053384528
-      objectReference: {fileID: 0}
-    - target: {fileID: 2698978934457142751, guid: f3790f3c7f5f1414e9f689496ff2aa78, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0.9826795
-      objectReference: {fileID: 0}
-    - target: {fileID: 2698978934457142751, guid: f3790f3c7f5f1414e9f689496ff2aa78, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 175.242
-      objectReference: {fileID: 0}
-    - target: {fileID: 2698978934457142751, guid: f3790f3c7f5f1414e9f689496ff2aa78, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 171.405
-      objectReference: {fileID: 0}
-    - target: {fileID: 2698978934457142751, guid: f3790f3c7f5f1414e9f689496ff2aa78, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: -19.351013
-      objectReference: {fileID: 0}
-    - target: {fileID: 7728736536567692127, guid: f3790f3c7f5f1414e9f689496ff2aa78, type: 3}
-      propertyPath: InitialModule.startSize.scalar
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 7728736536567692127, guid: f3790f3c7f5f1414e9f689496ff2aa78, type: 3}
-      propertyPath: InitialModule.startLifetime.minScalar
-      value: 0.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f3790f3c7f5f1414e9f689496ff2aa78, type: 3}
